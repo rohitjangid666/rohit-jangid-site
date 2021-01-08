@@ -44,7 +44,7 @@ i{
 }
 
 .bgimg-1{
-  background-image: url('../Images/header-bg.jpg');
+  background-image: url('images/header-bg.jpg');
   min-height: 100%;
   background-attachment: fixed;
   background-position: center;
